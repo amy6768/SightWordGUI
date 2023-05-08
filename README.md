@@ -15,6 +15,7 @@ Clone this repository to your local machine.
 Install Python 3.x if it's not already installed on your machine.
 Open a terminal or command prompt and navigate to the project directory.
 Run the command python sightword_practice.py to start the application.
+
 Usage
 
 1. Select a word list from the dropdown menu.
